@@ -47,9 +47,39 @@ git clone https://github.com/simplilearn10/SpringBootPrometheusGrafana.git
 
 --------------------------------------------------------------------------------------------------------------------------------
 
+Install and Configure Grafana, then start the Grafana service
 
 <img width="939" height="375" alt="image" src="https://github.com/user-attachments/assets/a88e0720-14b3-46e3-ba19-4efc2d43def4" />
+---------------------------------------------------------------------------------------------------------------------------------
 
+Access the Grafana web interface using the host/server’s IP address:  http://3.86.85.114:3000/
 
+<img width="887" height="681" alt="image" src="https://github.com/user-attachments/assets/bf45b79e-a9c1-4fea-a116-8f3fd7ae0aca" />
+--------------------------------------------------------------------------------------------------------------------------------
+
+Configure Grafana web interface to add prometheus as Data source
+
+<img width="909" height="555" alt="image" src="https://github.com/user-attachments/assets/33f9b332-547d-4815-896b-22c09bc52913" />
+----------------------------------------------------------------------------------------------------------------------------
+
+<img width="883" height="427" alt="image" src="https://github.com/user-attachments/assets/85472048-956a-41a7-8d1f-21f5a5a87d12" />
+-------------------------------------------------------------------------------------------------------------------------------
+
+Create Grafana Dashboard with multi panels to Visualize Metrics
+
+<img width="953" height="667" alt="image" src="https://github.com/user-attachments/assets/acf0a8af-5c66-4096-a707-8d2fc197f806" />
+-------------------------------------------------------------------------------------------------------------------------------
+
+<img width="914" height="614" alt="image" src="https://github.com/user-attachments/assets/ca340b96-d219-4349-8a94-640c3bac84f5" />
+-------------------------------------------------------------------------------------------------------------------------------
+
+<img width="925" height="629" alt="image" src="https://github.com/user-attachments/assets/f16c92b0-7048-4620-a63f-128bcf291bc7" />
+-------------------------------------------------------------------------------------------------------------------------------
+
+<img width="956" height="628" alt="image" src="https://github.com/user-attachments/assets/9900b8c9-8ef6-43cb-9965-1a0329c38a47" />
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+**We have successfully set-up Prometheus for continuous monitoring of application metrics, configured a Java application to expose custom metrics to Prometheus and set-up Grafana & configured Grafana Dashboard to visualize the collected metrics & API response data.**
 
 
