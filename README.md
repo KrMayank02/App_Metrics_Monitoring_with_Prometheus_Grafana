@@ -43,6 +43,10 @@ git clone https://github.com/simplilearn10/SpringBootPrometheusGrafana.git
 
 <img width="947" height="206" alt="image" src="https://github.com/user-attachments/assets/5dffc240-fbbf-4a5d-ac46-133ca22ea066" />
 -------------------------------------------------------------------------------------------------------------------------------
+<img width="969" height="340" alt="image" src="https://github.com/user-attachments/assets/99cea53f-0cfe-4fc3-987f-c538e97392e8" />
+
+--------------------------------------------------------------------------------------------------------------------------------
+
 
 <img width="939" height="375" alt="image" src="https://github.com/user-attachments/assets/a88e0720-14b3-46e3-ba19-4efc2d43def4" />
 
