@@ -65,6 +65,10 @@ git clone https://github.com/simplilearn10/SpringBootPrometheusGrafana.git
 
 Install and Configure Grafana, then start the Grafana service
 
+<img width="935" height="364" alt="image" src="https://github.com/user-attachments/assets/a31fa3fa-17e1-4c7b-842d-1e456e2c5100" />
+
+--------------------------------------------------------------------------------------------------------------------------------
+
 <img width="939" height="375" alt="image" src="https://github.com/user-attachments/assets/a88e0720-14b3-46e3-ba19-4efc2d43def4" />
 
 ---------------------------------------------------------------------------------------------------------------------------------
