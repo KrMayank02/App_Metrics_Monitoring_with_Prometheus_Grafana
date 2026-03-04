@@ -32,6 +32,10 @@ By integrating Prometheus and Grafana, the company seeks to provide continuous f
 
 ## Output Result Screenshots:
 
+<img width="928" height="305" alt="image" src="https://github.com/user-attachments/assets/340c7b9d-8515-4c95-bab9-d2fe59b6663d" />
+
+----------------------------------------------------------------------------------------------------------------
+
 Edit the Prometheus yml configuration file:
 
 sudo vi /etc/prometheus/prometheus.yml
